@@ -1,0 +1,11 @@
+.person{
+    width: 200px;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 2px #eee;
+    display: inline-block;
+    margin: 10px;
+}
+
+.p{
+    font-weight: bold;
+}
